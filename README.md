@@ -12,10 +12,10 @@ Wat gaan we vandaag leren?
 
 Okey, ik denk dat ik klaar ben, hoe kan ik dat checken?
 
-[ ] Kan een gebruiker de Sprite bewegen door op de pijltjes te klikken: boven,  onder, links, rechts.
-[ ] Eindigt het spel als de vijand je Sprite aanraakt.
-[ ] Is jou Sprite en Achtergrond anders dan de mijne?
-[ ] Is Jou spel uitdagend, maar niet onmogelijk?
-[ ] Heb je een variable toegevoegd?
-[ ] Heb je geluid toegevoegd?
+- [ ] Kan een gebruiker de Sprite bewegen door op de pijltjes te klikken: boven,  onder, links, rechts.
+- [ ] Eindigt het spel als de vijand je Sprite aanraakt.
+- [ ] Is jou Sprite en Achtergrond anders dan de mijne?
+- [ ] Is Jou spel uitdagend, maar niet onmogelijk?
+- [ ] Heb je een variable toegevoegd?
+- [ ] Heb je geluid toegevoegd?
 
