@@ -2,7 +2,7 @@ Wat gaan we vandaag leren?
 
 - Hoe maak je een "Sprite" groter of kleiner.
 - Pijltjes gebruiken om je "Sprite" te bewegen
-- Een schier effect maken.
+- Een schiet effect maken.
 - Leer het verschil tussen het bewegen van een Sprite met "stappen" of d.m.v x en y assen.
 - Copier een code block naar een andere Sprite.
 - Laat een Sprite naar een willekurige locatie op de scherm bewegen.
