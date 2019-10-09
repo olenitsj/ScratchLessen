@@ -21,3 +21,22 @@
 - [ ] Heb je een variable toegevoegd?
 - [ ] Heb je geluid toegevoegd?
 
+
+# Les 6, Quiz
+
+## Wat gaan we vandaag leren? 
+
+- Hoe wissel ik een achtergrond.
+- Vragen stellen en het antwoord gebruiken in je programma.
+- Versturen van berichten.
+- Ontvangen van berichten.
+- Animeren van een Sprite.
+
+## Okey, ik denk dat ik klaar ben, hoe kan ik dat checken?
+
+- [ ] Vraag ik om een naam?
+- [ ] Gebruik ik de naam in een bericht?
+- [ ] Verander ik de achtergrond bij iedere vraag?
+- [ ] Beweegt je sprite als je gewonnen hebt?
+- [ ] Laat je een volgende scene beginnen na dat je een bericht hebt ontvangen?
+- [ ] Verstuur je een bericht als een antwoord goed is?
