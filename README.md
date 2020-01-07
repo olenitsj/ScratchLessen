@@ -45,20 +45,21 @@
 
 - Hoe laat ik een sprite bewegen?
 - Hoe laat ik een sprite de juiste kant-op draaien?
+- Hoe verander ik de uiterlijk van een sprite?
 - Hoe animeer ik een sprite?
+- Hoe verander ik de achtergrond?
 - Hoe maak ik een zwarte kracht effect?
 
 ## Okey, ik denk dat ik klaar ben, hoe kan ik dat checken?
 
-- [ ] Heb ik een Hoofdkarakter-Sprite?
-- [ ] Heb ik een Scene Spite met de correcte naam (Scene-1, Scene-2, Scene-3 etc)?
-- [ ] Heeft Hoofdkarakter-Sprite exact het volgende als naam "Hoofdkarakter"?
-- [ ] Heb ik een "Vloer"/"Grond?
-- [ ] Is de hoofd karakter op de grond?
+- [ ] Heb ik een Uiterlijk met de correcte naam (Scene-0-Uiterlijk-0, Scene-1-Uiterlijk-0, Scene-2-Uiterlijk-0) ?
+- [ ] Heb ik een Achtergrond met de correcte naam (Scene-0-Achtergrond-0, Scene-1-Achtergrond-0, Scene-2-Achtergrond-0 etc)?
+- [ ] Heeft Hoofdkarakter-Sprite exact het volgende als naam "HoofdKarakter"?
+- [ ] Is de hoofd-karakter op de grond?
 - [ ] Valt de hoofdkarakter niet door de grond(op geen enkel manier)?
 - [ ] Als ik pijltje naar links klik gaat de Hoofdkarakter naar links?
 - [ ] Draait de Hoofdkarakternaar de juiste kant als hij/zij loopt?
-- [ ] 
+- [ ] Werkt zwarte kracht zoals het hoort?
 
 # Blok 3 les x. 
 
