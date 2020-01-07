@@ -58,12 +58,12 @@
 - [ ] Is de hoofd-karakter op de grond?
 - [ ] Valt de hoofdkarakter niet door de grond(op geen enkel manier)?
 - [ ] Als ik pijltje naar links klik gaat de Hoofdkarakter naar links?
+- [ ] Als ik pijltje naar rechts klik gaat de Hoofdkarakter naar rechts?
 - [ ] Draait de Hoofdkarakternaar de juiste kant als hij/zij loopt?
 - [ ] Werkt zwarte kracht zoals het hoort?
 
 # Blok 3 les x. 
 
-- [ ] Als ik pijltje naar rechts klik gaat de Hoofdkarakter naar rechts?
 - [ ] Als ik de Linker kant van de scene aanraak gaat de variabel "SceneNummer" omhoog met 1?
 - [ ] Als ik de Linker kant van de scene aanraak gaat de variabel "SceneNummer" omlaag met 1?
 - [ ] Als een van de randen(links/recht) aangeraakt worden stopen alle sprites/functionaliteit in je huidige scene?
