@@ -40,3 +40,32 @@
 - [ ] Beweegt je sprite als je gewonnen hebt?
 - [ ] Laat je een volgende scene beginnen na dat je een bericht hebt ontvangen?
 - [ ] Verstuur je een bericht als een antwoord goed is?
+
+# Blok 3 les 2. Zwaarte kracht en lopen.
+
+- Hoe laat ik een sprite bewegen?
+- Hoe laat ik een sprite de juiste kant-op draaien?
+- Hoe animeer ik een sprite?
+- Hoe maak ik een zwarte kracht effect?
+
+## Okey, ik denk dat ik klaar ben, hoe kan ik dat checken?
+
+- [ ] Heb ik een Hoofdkarakter-Sprite?
+- [ ] Heb ik een Scene Spite met de correcte naam (Scene-1, Scene-2, Scene-3 etc)?
+- [ ] Heeft Hoofdkarakter-Sprite exact het volgende als naam "Hoofdkarakter"?
+- [ ] Heb ik een "Vloer"/"Grond?
+- [ ] Is de hoofd karakter op de grond?
+- [ ] Valt de hoofdkarakter niet door de grond(op geen enkel manier)?
+- [ ] Als ik pijltje naar links klik gaat de Hoofdkarakter naar links?
+- [ ] Draait de Hoofdkarakternaar de juiste kant als hij/zij loopt?
+- [ ] 
+
+# Blok 3 les x. 
+
+- [ ] Als ik pijltje naar rechts klik gaat de Hoofdkarakter naar rechts?
+- [ ] Als ik de Linker kant van de scene aanraak gaat de variabel "SceneNummer" omhoog met 1?
+- [ ] Als ik de Linker kant van de scene aanraak gaat de variabel "SceneNummer" omlaag met 1?
+- [ ] Als een van de randen(links/recht) aangeraakt worden stopen alle sprites/functionaliteit in je huidige scene?
+- [ ] Als een van de randen(links/recht) aangeraakt worden al je sprites verborgen(dus objecten zoals huizen, monsters, AI/NPC's?
+
+
