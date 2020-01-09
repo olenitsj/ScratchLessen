@@ -70,3 +70,5 @@
 - [ ] Als een van de randen(links/recht) aangeraakt worden al je sprites verborgen(dus objecten zoals huizen, monsters, AI/NPC's?
 
 
+http://scratch.mit.edu/classes/247538/register/34169f8f8beb40d0a441be6626443c16
+
